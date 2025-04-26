@@ -38,3 +38,10 @@ height: 300px;
   padding: 0.5rem;
   cursor: pointer;
 }
+
+.available-job-apply-button-jobRequest:hover {
+  background-color: #0f2a5b;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+  transform: scale(1.05); /* Slightly larger on hover */
+  transition: all 0.3s ease; /* Smooth transition */
+}
